@@ -4,7 +4,12 @@
 
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
+<<<<<<< HEAD
 <button> joe2jdluasdjkuasdiljalk </button>
+=======
+<h2>My Second Heading</h2>
+<button> HHHHHH </button>
+>>>>>>> 90e4eb7a377e7a973d4dd94e40b53018ee5d71f6
 <br>
 
 </body>
