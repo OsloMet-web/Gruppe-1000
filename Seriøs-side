@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Motivasjonsside</title>
+    <link rel="stylesheet" href="../CSS/øving.css">
+</head>
+<body>
+<h1>Get up and get it</h1>
+<h2>Motivational Quotes</h2>
+    <pre id="Quotes">Her er noe å tenke på:
+    <i><q>Du finner alltid et gram med moro i dritten du befinner deg i.</q></i>
+    <em>Stian Slåtten 2023</em>
+    <i><q>There always someone who will switch lifes with you, be grateful.</q></i>
+    <em>Ukjent opphav</em>
+    <i><q>What doesn't kill you, makes you stronger</q></i>
+    <em>Friedrich Nietzsche/Gustav Lehmann</em>
+    <i><q>Just remember, you can't climb the ladder of success with your hands in your pockets.</q></i>
+    <em>Arnold Schwarzenegger</em>
+    </pre>
+</body>
+</html>
